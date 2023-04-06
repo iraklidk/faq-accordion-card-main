@@ -23,6 +23,7 @@ body {
     border-radius: 23px;
     justify-content: center;
     align-items: center;
+    position: relative;
 }
 
 .main-header {
@@ -45,13 +46,13 @@ body {
     height: 200px;
     left: calc(50% - 150px);
     position: absolute;
-    top: 68px;
+    top: -120px;
 }
 
 .shadow {
     width: 250px;
     position: absolute;
-    top: 180px;
+    top: 0;
     left: calc(50% - 125px);
 }
 
