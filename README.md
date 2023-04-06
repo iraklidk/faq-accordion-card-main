@@ -22,7 +22,7 @@ Screenshot 2 Mobile - https://ibb.co/PwRZm8w
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://iraklido.github.io/faq-accordion-card-main/
 
 ### Built with
 
